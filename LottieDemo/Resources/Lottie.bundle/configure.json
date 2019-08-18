@@ -1,0 +1,29 @@
+{
+    "balloon": [
+        {
+            "name" : "balloon1.json",
+            "onpic" : "balloon1.png"
+        },
+        {
+            "name" : "balloon.json",
+            "onpic" : "balloon2.png"
+        }
+    ],
+    "sunflower": [
+      {
+       "name" : "sunflower.json",
+       "onpic" : "sunflower1.png"
+      },
+      {
+        "name" : "sunflower1.json",
+        "onpic" : "sunflower2.png"
+       } 
+    ] ,
+    "birdfly": ["bird1.json","bird2.json","birdFly.json"],
+    "people": [ "people1.json","people2.json"],
+    "duck": "duck.json",
+    "cat": ["orange.json","siam.json","white.json"],
+    "dog": ["backLeft.json","backRight.json","goLeft.json","goRight.json"],
+    "bgmusic": "background_houseMap.mp3",
+    "version": "112"
+  }
